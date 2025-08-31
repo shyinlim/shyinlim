@@ -34,7 +34,7 @@
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#) &nbsp;
 [![Appium](https://img.shields.io/badge/Appium-662d91?logo=appium&logoColor=white)](#) &nbsp;
 [![Go Testify](https://img.shields.io/badge/Go-Testify-%2300ADD8?logo=go-testify&logoColor=black)](#) &nbsp;
-[![k6](https://img.shields.io/badge/k6-6364FF?logo=k6&logoColor=fff)](#) &nbsp;
+[![k6](https://img.shields.io/badge/k6-6364FF?logo=k6&logoColor=fff)](#) &nbsp; <br>
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#) &nbsp;
 [![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-A6A9AA?logo=charlesproxy&logoColor=white)](#) &nbsp;
 [![Proxyman](https://img.shields.io/badge/Proxyman-007AFF?logo=proxyman&logoColor=000)](#) &nbsp;
