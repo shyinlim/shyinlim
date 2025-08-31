@@ -36,8 +36,8 @@
 [![Go Testify](https://img.shields.io/badge/Go-Testify-%2300ADD8?logo=go-testify&logoColor=black)](#) &nbsp;
 [![k6](https://img.shields.io/badge/k6-6364FF?logo=k6&logoColor=fff)](#) &nbsp;
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#) &nbsp;
-![Charles](https://img.shields.io/badge/Charles-ffffff?style=flat-square&logoColor=black) &nbsp;
-![Proxyman](https://img.shields.io/badge/Proxyman-007AFF?style=flat-square&logoColor=white) &nbsp;
+[![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-A6A9AA?logo=charlesproxy&logoColor=white)](#) &nbsp;
+[![Proxyman](https://img.shields.io/badge/Proxyman-007AFF?logo=proxyman&logoColor=000)](#) &nbsp;
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000)](#) &nbsp;
 
 **CI/CD & Infrastructure**  
