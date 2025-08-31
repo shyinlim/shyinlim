@@ -21,48 +21,51 @@
 ## 🧰 Tech Stack
 
 **Languages & Frameworks**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat-square) &nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=flat-square) &nbsp;
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&style=flat-square) &nbsp;
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&style=flat-square) &nbsp;
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&style=flat-square) &nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square) &nbsp;
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) &nbsp;
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) &nbsp;
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#) &nbsp;
+[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#) &nbsp;
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#) &nbsp;
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#) &nbsp;
 
 **Testing**  
-![Pytest](https://img.shields.io/badge/-Pytest-3776AB?logo=pytest&style=flat-square) &nbsp;
-![Playwright](https://img.shields.io/badge/-Playwright-45ba63?logo=playwright&style=flat-square) &nbsp;
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&style=flat-square) &nbsp;
-![Appium](https://img.shields.io/badge/-Appium-ffffff?logo=appium&logoColor=black&style=flat-square) &nbsp;
-![Go Testify](https://img.shields.io/badge/Go-Testify-%2300ADD8?style=flat-square) &nbsp;
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&style=flat-square) &nbsp;
-![k6](https://img.shields.io/badge/-k6-7D64FF?logo=k6&style=flat-square) &nbsp;
+[![Pytest](https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000)](#) &nbsp;
+[![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)](#) &nbsp;
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#) &nbsp;
+[![Appium](https://img.shields.io/badge/Appium-ffffff?logo=appium&logoColor=black)](#) &nbsp;
+[![Go Testify](https://img.shields.io/badge/Go-Testify-%2300ADD8?logo=go-testify&logoColor=black)](#) &nbsp;
+[![k6](https://img.shields.io/badge/k6-6364FF?logo=k6&logoColor=fff)](#) &nbsp;
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#) &nbsp;
 ![Charles](https://img.shields.io/badge/Charles-ffffff?style=flat-square&logoColor=black) &nbsp;
 ![Proxyman](https://img.shields.io/badge/Proxyman-007AFF?style=flat-square&logoColor=white) &nbsp;
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000)](#) &nbsp;
 
 **CI/CD & Infrastructure**  
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&style=flat-square) &nbsp;
-![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?logo=gitlab&style=flat-square) &nbsp;
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&style=flat-square) &nbsp;
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=flat-square) &nbsp;
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&style=flat-square) &nbsp;
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#) &nbsp;
+[![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](#) &nbsp;
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#) &nbsp;
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) &nbsp;
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#) &nbsp;
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#) &nbsp;
 
 **Cloud Storage, Messaging & Workflow**  
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&style=flat-square) &nbsp;
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apache-airflow&style=flat-square) &nbsp;
-![MinIO](https://img.shields.io/badge/-MinIO-CF2B2B?logo=minio&style=flat-square) &nbsp;
+[![Kafka](https://img.shields.io/badge/Kafka-231F20.svg?logo=apache-kafka&logoColor=white)](#) &nbsp;
+[![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apache-airflow&logoColor=white)](#) &nbsp;
+[![MinIO](https://img.shields.io/badge/-MinIO-CF2B2B?logo=minio&logoColor=white)](#) &nbsp;
 
 **Databases & Caching**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&style=flat-square) &nbsp;
-![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&style=flat-square) &nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&style=flat-square) &nbsp;
-![TiDB](https://img.shields.io/badge/TiDB-0A95FF?style=flat-square&logoColor=white) &nbsp;
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logoColor=white) &nbsp;
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&style=flat-square) &nbsp;
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) &nbsp;
+[![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#) &nbsp;
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#) &nbsp;
+[![TiDB](https://img.shields.io/badge/TiDB-%23DD0031?logo=TiDB&logoColor=white)](#) &nbsp;
+[![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=fff)](#) &nbsp;
+[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#) &nbsp;
 
 
 ---
 ## 📊 GitHub Stats
 <p align="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taurus5650&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taurus5650&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=scss,css" width="420"/>
 </p>
+
 
