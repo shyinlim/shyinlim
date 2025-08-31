@@ -32,7 +32,7 @@
 [![Pytest](https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000)](#) &nbsp;
 [![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)](#) &nbsp;
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#) &nbsp;
-[![Appium](https://img.shields.io/badge/Appium-ffffff?logo=appium&logoColor=black)](#) &nbsp;
+[![Appium](https://img.shields.io/badge/Appium-662d91?logo=appium&logoColor=white)](#) &nbsp;
 [![Go Testify](https://img.shields.io/badge/Go-Testify-%2300ADD8?logo=go-testify&logoColor=black)](#) &nbsp;
 [![k6](https://img.shields.io/badge/k6-6364FF?logo=k6&logoColor=fff)](#) &nbsp;
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#) &nbsp;
