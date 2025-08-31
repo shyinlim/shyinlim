@@ -62,10 +62,18 @@
 [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#) &nbsp;
 
 
----
-## 📊 GitHub Stats
-<p align="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taurus5650&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=scss,css" width="420"/>
-</p>
 
+---
+## 📊 GitHub
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=taurus5650&theme=dark&hide_border=false" width="420"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taurus5650&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=scss,css" width="300"/>
+    </td>
+  </tr>
+</table>
 
