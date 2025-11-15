@@ -69,10 +69,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=taurus5650&theme=dark&hide_border=false" width="420"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyinlim&theme=dark&hide_border=false" width="420"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taurus5650&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=scss,css" width="300"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyinlim&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=scss,css" width="300"/>
     </td>
   </tr>
 </table>
